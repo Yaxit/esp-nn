@@ -1,0 +1,4 @@
+name: esp-nn
+build:
+  cmake-ext: True
+  kconfig-ext: True
